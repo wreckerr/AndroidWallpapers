@@ -1,0 +1,161 @@
+{
+  "project_info": {
+    "project_number": "117157922790",
+    "firebase_url": "https://wallpaper-b2ba3.firebaseio.com",
+    "project_id": "wallpaper-b2ba3",
+    "storage_bucket": "wallpaper-b2ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117157922790:android:3e6a3aea1ad45f95ab3827",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117157922790-veepb90egks9ugbvbvdrc1h1bv64q9ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallpaper",
+            "certificate_hash": "837e18c9344c7654e031a3afb9b75f146d47c8fa"
+          }
+        },
+        {
+          "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT8yy6Nlji59N1-QYDiwijI2jMHkNTRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117157922790:android:3e6a3aea1ad45f95ab3827",
+        "android_client_info": {
+          "package_name": "com.my.androidwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117157922790-veepb90egks9ugbvbvdrc1h1bv64q9ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.androidwallpapersr",
+            "certificate_hash": "837e18c9344c7654e031a3afb9b75f146d47c8fa"
+          }
+        },
+        {
+          "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT8yy6Nlji59N1-QYDiwijI2jMHkNTRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117157922790:android:3e6a3aea1ad45f95ab3827",
+        "android_client_info": {
+          "package_name": "com.my.androidwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117157922790-veepb90egks9ugbvbvdrc1h1bv64q9ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.androidwallpapersr",
+            "certificate_hash": "837e18c9344c7654e031a3afb9b75f146d47c8fa"
+          }
+        },
+        {
+          "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT8yy6Nlji59N1-QYDiwijI2jMHkNTRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117157922790:android:987c60af35118f4aab3827",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.firebasewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117157922790-ltaat9h7bjh68clajdfjlalcqnje9dv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvacstudio.firebasewallpapers",
+            "certificate_hash": "837e18c9344c7654e031a3afb9b75f146d47c8fa"
+          }
+        },
+        {
+          "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT8yy6Nlji59N1-QYDiwijI2jMHkNTRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117157922790-firsr5s7a0fde1bdste6fgbaem0l1mip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
